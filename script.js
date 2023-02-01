@@ -2,8 +2,8 @@ const currentDay = $('#currentDay');
 const calendarContainer = $('#calendar-container');
 const clear = $('#clear');
 
-let startHour = 8;
-let endHour = 19;
+let startHour = 1;
+let endHour = 24;
 let storage = [];
 
 // function to display the days in d/m/y
